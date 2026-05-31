@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdelete",
+        "uuid": 9191245,
+        "checksum": "h86muk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
